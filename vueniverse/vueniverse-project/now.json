@@ -1,0 +1,4 @@
+{
+  "name": "vueniverse-app",
+  "env": ".prod.env"
+}
